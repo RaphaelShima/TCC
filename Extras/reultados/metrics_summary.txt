@@ -1,0 +1,87 @@
+Metrics Summary
+================
+
+Fold 1 Metrics:
+Validation Loss: 0.5978142619132996
+Validation Accuracy: 0.7825541496276855
+Validation F1 Score: 0.7817654567196082
+Classification Report:               precision    recall  f1-score   support
+
+     general       0.81      0.72      0.77      1574
+     sbb_sbc       0.76      0.84      0.80      1613
+
+    accuracy                           0.78      3187
+   macro avg       0.79      0.78      0.78      3187
+weighted avg       0.79      0.78      0.78      3187
+
+
+Fold 2 Metrics:
+Validation Loss: 0.5768659114837646
+Validation Accuracy: 0.790084719657898
+Validation F1 Score: 0.7887012886597817
+Classification Report:               precision    recall  f1-score   support
+
+     general       0.74      0.88      0.80      1566
+     sbb_sbc       0.86      0.71      0.77      1621
+
+    accuracy                           0.79      3187
+   macro avg       0.80      0.79      0.79      3187
+weighted avg       0.80      0.79      0.79      3187
+
+
+Fold 3 Metrics:
+Validation Loss: 0.5655640363693237
+Validation Accuracy: 0.799435019493103
+Validation F1 Score: 0.7985073700500488
+Classification Report:               precision    recall  f1-score   support
+
+     general       0.77      0.86      0.81      1613
+     sbb_sbc       0.84      0.73      0.78      1573
+
+    accuracy                           0.80      3186
+   macro avg       0.80      0.80      0.80      3186
+weighted avg       0.80      0.80      0.80      3186
+
+
+Fold 4 Metrics:
+Validation Loss: 0.5891427993774414
+Validation Accuracy: 0.7765222787857056
+Validation F1 Score: 0.7763950469303547
+Classification Report:               precision    recall  f1-score   support
+
+     general       0.79      0.75      0.77      1593
+     sbb_sbc       0.76      0.80      0.78      1593
+
+    accuracy                           0.78      3186
+   macro avg       0.78      0.78      0.78      3186
+weighted avg       0.78      0.78      0.78      3186
+
+
+Fold 5 Metrics:
+Validation Loss: 0.5971025228500366
+Validation Accuracy: 0.7972379326820374
+Validation F1 Score: 0.7972188906467396
+Classification Report:               precision    recall  f1-score   support
+
+     general       0.80      0.80      0.80      1620
+     sbb_sbc       0.80      0.79      0.79      1566
+
+    accuracy                           0.80      3186
+   macro avg       0.80      0.80      0.80      3186
+weighted avg       0.80      0.80      0.80      3186
+
+
+Fold test Metrics:
+Test Loss: 0.5947164297103882
+Test Accuracy: 0.7979417443275452
+Test F1 Score: 0.7979203652041592
+Classification Report:               precision    recall  f1-score   support
+
+                        general       0.79      0.81      0.80      1992
+                        sbb_sbc       0.80      0.79      0.80      1992
+
+                        accuracy                           0.80      3984
+                        macro avg       0.80      0.80      0.80      3984
+                     weighted avg       0.80      0.80      0.80      3984
+
+
