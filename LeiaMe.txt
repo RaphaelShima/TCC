@@ -1,0 +1,8 @@
+Nome: Raphael Tavares Shimamoto
+
+Título: Classificação de galáxias do tipo (SBb - SBc) com Redes neurais convolucionais
+Resumo: As galáxias exibem uma variedade de formas distintas, podendo ser classificadas de acordo com o sistema de categorização proposto por Hubble. Este sistema morfológico reconhece quatro categorias principais: galáxias elípticas (E), galáxias espirais (S), galáxias espirais barradas (SB) e galáxias irregulares (I). Este estudo foca na identificação de galáxias dos tipos SBb e SBc utilizando redes neurais convolucionais (CNNs). Os dados para esta pesquisa são provenientes do Sloan Digital Sky Survey (SDSS) e do catálogo Galaxy Zoo 2, acessados via Astroquery. A classificação eficiente de galáxias é crucial na astronomia moderna para compreender a natureza e a evolução do Universo. A aplicação de CNNs pode aprimorar significativamente o processo de classificação ao automatizar a identificação de tipos de galáxias com base em dados de imagem de alta resolução. O estudo envolve o pré-processamento dos dados para filtrar as galáxias relevantes, aplicando um algoritmo de ranqueamento baseado em redshift para priorizar as galáxias mais próximas, e o treinamento das CNNs em conjuntos de dados balanceados de galáxias SBb e SBc. Esta abordagem visa melhorar a precisão e a confiabilidade da classificação de galáxias, fornecendo insights valiosos sobre as características morfológicas das galáxias espirais barradas.
+
+Orientador: Antonio Queiroz da Silva Neto
+
+Mês/Ano: Dezembro de 2024
